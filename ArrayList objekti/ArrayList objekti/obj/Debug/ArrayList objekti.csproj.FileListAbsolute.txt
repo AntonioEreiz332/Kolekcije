@@ -1,0 +1,7 @@
+C:\Users\toni-PC\source\repos\ArrayList objekti\ArrayList objekti\bin\Debug\ArrayList objekti.exe.config
+C:\Users\toni-PC\source\repos\ArrayList objekti\ArrayList objekti\bin\Debug\ArrayList objekti.exe
+C:\Users\toni-PC\source\repos\ArrayList objekti\ArrayList objekti\bin\Debug\ArrayList objekti.pdb
+C:\Users\toni-PC\source\repos\ArrayList objekti\ArrayList objekti\obj\Debug\ArrayList objekti.csprojAssemblyReference.cache
+C:\Users\toni-PC\source\repos\ArrayList objekti\ArrayList objekti\obj\Debug\ArrayList objekti.csproj.CoreCompileInputs.cache
+C:\Users\toni-PC\source\repos\ArrayList objekti\ArrayList objekti\obj\Debug\ArrayList objekti.exe
+C:\Users\toni-PC\source\repos\ArrayList objekti\ArrayList objekti\obj\Debug\ArrayList objekti.pdb
